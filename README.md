@@ -1,3 +1,3 @@
 # Android
 Android Studio Projects
-Refer WIKI for images
+Refer WIKI for ScreenShots
